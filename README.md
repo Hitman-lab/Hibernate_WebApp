@@ -6,3 +6,6 @@
 
 **In this example,I am going to insert the record of the user in the database. It is simply a registration form.**
 
+<hr>
+> Screenshots
+
